@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wolf/static/css/main.e71b4596.css",
+    "main.js": "/wolf/static/js/main.3d658ddc.js",
+    "static/js/787.7029d0ff.chunk.js": "/wolf/static/js/787.7029d0ff.chunk.js",
+    "index.html": "/wolf/index.html",
+    "main.e71b4596.css.map": "/wolf/static/css/main.e71b4596.css.map",
+    "main.3d658ddc.js.map": "/wolf/static/js/main.3d658ddc.js.map",
+    "787.7029d0ff.chunk.js.map": "/wolf/static/js/787.7029d0ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e71b4596.css",
+    "static/js/main.3d658ddc.js"
+  ]
+}
